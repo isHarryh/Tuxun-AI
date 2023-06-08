@@ -1,0 +1,9 @@
+*/
+!/docs/
+!/models/
+
+*demo*
+*temp*
+
+*.pth
+!v0.3.0.pth
